@@ -9,45 +9,37 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: adrien
+title: jonathan-974
 
 
 # First name or full name
 
-name: Adrien
+name: jonathan-974
 
-date: 2020-06-26 14:36
+date: 2020-07-10 13:00
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Augmenter mon niveau de diplome.
+objective: Reconversion professionnelle.
 
-short_description: Je suis un webmestre et developpeur full-stack au ministère de l'intérieur.
+short_description: Victoria mundis et mundis lacrima.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 
 template: students
 
-description:
-
-    Ayant travaillé dans le domaine pendant quelques temps déja je possède déja
-
-    des compétences en tant que développeur python.
-
-    Je souhaite suivre cette formation pour avoir un plus haut niveau de diplome
-
-    dans le but d'avoir plus d'opportunités et augmenter mon salaire.
+description: Bacon ipsum dolor amet sausage.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: adrien.jpg
+image: jonathan-974.jpg
 
 
 # Change this to True when you do you pull request.
@@ -59,17 +51,17 @@ public: True
 
 projects:
 
-  - title: Présentez-vous !
+  - title: P1 - Définissez votre stratégie d'apprentissage
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Corned beef pork loin pork chop.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: adrien/projet_1.png
+    image: jonathan-974/projet_1.jpg
 
-    link: https://www.linkedin.com/in/adrien-simon-991863174/
+    link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_1.jpg
 
     # 'true' makes it fully available.
 
@@ -77,24 +69,23 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté !
+  - title: P2 - Intégrez la communauté OpenClassrooms
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Github
+    description: Bacon ipsum dolor amet sausage cupim pork.
 
-    image: adrien/projet_2.png
+    image: jonathan-974/projet_2.jpg
 
-    link: https://github.com/adrien914
-
-    finished: true
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: adrien/projet_3.png
-
-    link: https://github.com/adrien914/P3_Aidez_MacGyver_a_s-echapper-
+    link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_2.jpg
 
     finished: true
 
+  - title: P3 - Créez votre premier jeu vidéo avec Swift
+
+    description: Bacon ipsum dolor amet sausage cupim.
+
+    image: jonathan-974/projet_3.jpg
+
+    link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_3.jpg
+
+    finished: true
 ---

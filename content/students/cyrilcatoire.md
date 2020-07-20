@@ -9,45 +9,39 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: adrien
+title: cyrilcatoire
 
 
 # First name or full name
 
-name: Adrien
+name: Cyril
 
-date: 2020-06-26 14:36
+date: 2020-03-22 17:32
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Augmenter mon niveau de diplome.
+objective: Devenir développeur iOS
 
-short_description: Je suis un webmestre et developpeur full-stack au ministère de l'intérieur.
+short_description: Musique, moto, Code, dormir.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 
 template: students
 
-description:
+description: Je suis un etudiant qui souhaite consolider ses acquis en developpemment et se specialiser en mobile iOS.
 
-    Ayant travaillé dans le domaine pendant quelques temps déja je possède déja
-
-    des compétences en tant que développeur python.
-
-    Je souhaite suivre cette formation pour avoir un plus haut niveau de diplome
-
-    dans le but d'avoir plus d'opportunités et augmenter mon salaire.
+    
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: adrien.jpg
+image: cyrilcatoire.png
 
 
 # Change this to True when you do you pull request.
@@ -67,9 +61,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: adrien/projet_1.png
+    image: cyrilcatoire/projet_1.png
 
-    link: https://www.linkedin.com/in/adrien-simon-991863174/
+    link: https://www.linkedin.com/in/cyrilcatoire/
 
     # 'true' makes it fully available.
 
@@ -79,22 +73,23 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Github
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, github et PR. 
 
-    image: adrien/projet_2.png
+    image: cyrilcatoire/projet_2.jpeg
 
-    link: https://github.com/adrien914
-
-    finished: true
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: adrien/projet_3.png
-
-    link: https://github.com/adrien914/P3_Aidez_MacGyver_a_s-echapper-
+    link: https://github.com/panbouh/community
 
     finished: true
+
+  - title: Watata_run
+
+    description: Creer un jeu video simple en ligne de commande. Jeu de combat tour par tour a 2 joueur.
+
+    image: cyrilcatoire/projet_3.png
+
+    link: https://github.com/panbouh/Watata_run
+
+    finished: false
 
 ---
+

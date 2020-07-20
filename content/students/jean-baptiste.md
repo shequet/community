@@ -1,6 +1,5 @@
 ---
 
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -9,23 +8,23 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: cyril
+title: jean-baptiste
 
 
 # First name or full name
 
-name: Cyril
+name: Jean-Baptiste
 
-date: 2020-03-22 17:32
+date: 2020-07-15 15:00
 
 
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir développeur informatique Full Stack
+objective: Devenir un super developpeur dans l'artisanat logiciel.
 
-short_description: J'aime le beau code
+short_description: J'aime la vie, jouer à des jeux de société ou vidéos en famille ou avec des amis.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -33,15 +32,15 @@ short_description: J'aime le beau code
 template: students
 
 description:
-
-    Je souhaite acquérir les compétences qui me permettront d'être autonome dans un environnement professionnel.
+    Je m'appelle Jean-Baptiste Baillet, 35 ans. Marié et papa de 3 enfants. J'habite entre Rennes et Fougères.
+    Je profite d'une reconversion professionnelle pour me lancer dans la grande aventure du developpement d'applications pythons.
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: cyril.jpg
+image: jean-baptiste.jpg
 
 
 # Change this to True when you do you pull request.
@@ -59,12 +58,11 @@ projects:
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/images/students/yourrepo/project1.png
+    # Image must be here: content/images/students/jean-baptiste/JBB_linkedin.png
 
-    image: cyril/projet_1.jpg
+    image: jean-baptiste/projet_1.png
 
-    link: https://www.linkedin.com/in/cyril-morin-a77a42143/
-
+    link: https://www.linkedin.com/in/jean-baptiste-baillet/
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -73,11 +71,11 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, github et PR. 
+    description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests. 
 
-    image: cyril/projet_2.jpg
+    image: jean-baptiste/projet_2.png
 
-    link: https://github.com/cpawamgit
+    link: https://openclassrooms-student-center.github.io/presentation/students/jean-baptiste.html
 
     finished: true
 
@@ -85,11 +83,10 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: cyril/projet_3.jpg
+    image: jean-baptiste/projet_3.png
 
     link: https://www.github.com
 
     finished: false
-
 ---
 
